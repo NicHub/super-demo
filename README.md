@@ -1,7 +1,7 @@
 
-**HELLO MICROCLUB !**
-=====================
+# greensock-spiders
 
-Tout se passe bien ?
+Une démo “Spiders” avec TweenLite.min.js de [Greensock](https://greensock.com/).
 
-Alors c’est cool
+<https://nichub.github.io/greensock-spiders/>
+
